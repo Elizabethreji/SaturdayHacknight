@@ -7,8 +7,8 @@ Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. Athira K(https://github.com/TH-Activities/saturday-hack-night-template)
 2. Elizabeth Reji(https://github.com/TH-Activities/saturday-hack-night-template)
-3. Arathy Biju
-4. Abhirami J P
+3. Arathy Biju(https://github.com/TH-Activities/saturday-hack-night-template)
+4. Abhirami J P(https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
